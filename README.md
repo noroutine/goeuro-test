@@ -13,7 +13,9 @@ The program takes this string and queries with it our Location JSON API:
 
 The app should use this API endpoint:
 
-```http://api.goeuro.com/api/v2/position/suggest/en/STRING```
+```
+http://api.goeuro.com/api/v2/position/suggest/en/STRING
+```
 
 Where STRING is the string that the user has entered as a parameter when calling the tool.
 
